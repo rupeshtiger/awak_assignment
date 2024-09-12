@@ -1,6 +1,5 @@
 Github Live page link
 ### https://rupeshtiger.github.io/awak_assignment/
-
 Repository link
 ### https://github.com/rupeshtiger/awak_assignment.git
 
